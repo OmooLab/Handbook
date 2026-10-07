@@ -1,13 +1,13 @@
-# 偶魔数字 OmooLab
+![Cover](contents/branding/Cover.png)
 
-包含基本培训手册、物料等，所有你获取有关「偶魔数字」的一切可公开的信息
+# Omoo Lab
 
-## 基本操作手册
+*See Science, Feel Life*
 
-- [必装软件/工具](notes/starter.md)
-- [git 基操](notes/git.md)
-- [项目文件夹](notes/repository.md)
+Omoo Lab is a visual studio at the intersection of life sciences and design. With over a decade of experience and patented technologies, we turn complex science into compelling visuals.
 
-## 资源
+Recognized by leading researchers and a long-term partner to more than ten Fortune Global 500 companies, we are building a platform for science communication brands and content in China.
 
-- [偶魔品牌物料](contents/branding/README.md)
+## Resources
+
+- [Brand Assets](contents/branding/README.md)
