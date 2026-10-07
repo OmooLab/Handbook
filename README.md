@@ -1,13 +1,12 @@
-![Cover](contents/branding/Cover.zh.png)
+# 细胞手册
 
-# Omoo Lab
+有关「细胞模 OmooLab」的一切可公开的资料
 
-*See Science, Feel Life*
+## 基本操作手册
 
-Omoo Lab is a visual studio at the intersection of life sciences and design. With over a decade of experience and patented technologies, we turn complex science into compelling visuals.
+- [必装软件/工具](notes/starter.md)
+- [git 基操](notes/git.md)
 
-Recognized by leading researchers and a long-term partner to more than ten Fortune Global 500 companies, we are building a platform for science communication brands and content in China.
+## 资源
 
-## Resources
-
-- [Brand Assets](contents/branding/README.md)
+- [物料](contents/branding/)
