@@ -1,4 +1,4 @@
-![Cover](contents/branding/Cover.png)
+![Cover](contents/branding/Cover.zh.png)
 
 # Omoo Lab
 
